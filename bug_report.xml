@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<bugreport>
+  <ID>Ymetro-1</ID>
+  <Title>You can increase the subway map to an unreadable state</Title>
+  <Steps to reproduse>
+    <step1>1. Open subway map: https://......</step1>
+    <step2>2. Click on icon + more than six times until it stops increasing</step2>
+  </Steps to reproduse>
+  <Actual result>subway map increasing to unreadable view</Actual results>
+  <Expected result>after 3-6 clicks, subway map stops increasing</Expected result>
+  <Enviroment>
+    <OS>Windows 10 x64 build 19043</OS>
+    <Browser>Google Chrome v.77.0.3865.90</Browser>
+  </Enviroment>
+  <Severity>Minor</Severity>
+  <Priority>Low</Prority>
+  <Status>Open</Status>
+  <Author>Denis Pendyurin</Author>
+  <Attachments>link_to_picture_or_video</Attachments>
+</bugreport>
