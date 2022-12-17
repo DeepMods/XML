@@ -1,0 +1,16 @@
+<skills>
+	<http>HTTP methods</http>
+	<structure>structure JSON, XML</structure>
+	<snif>sniffers traffic</snif>
+	<dev>DEV Tool in browsers</dev>
+	<mob>mobile testing</mob>
+	<vpn>VPN how it works</vpn>
+	<comm>command line</comm>
+	<bash>practice git bash</bash>
+	<hub>practice github</hub>
+	<sql>basics SQL</sql>
+	<post>work in Postman</pos>
+	<soa>work in SoapUI</soa>
+	<pyth>basic Python</pyth>
+</skills>
+
